@@ -4,22 +4,22 @@ This repository contains the image processing tasks and techniques applied and u
 
 The notebooks contains image processing techniques like histogram equalization, histogram specification, template matching, applying different type of filters using convolution, image sharpening, image smoothing, bit plane slicing, etc.
 
-## Assignment 1:
+## Assignment 1
 - Quantization and it's effects
 - Effect of guassian noise
 - Number of connected components
 
-## Assignment 2:
+## Assignment 2
 - Mask to remove larger object in image
 - Detecting motion between 2 image
 - Template matching(finding part of image in larger image)
 
-## Assignment 3:
+## Assignment 3
 - Bit plane slicing
 - Histogram equilisation/matching (make similar histogram of 1 image as another image) : This will apply same filter on 1 image by looking onto another image
 - Dehasing of image
 
-## Assignment 4:
+## Assignment 4
 - Averaging and weighted average filter 
 - convolution (apply mask/filter on image)
 - Unsharp masking and High boost filtering
