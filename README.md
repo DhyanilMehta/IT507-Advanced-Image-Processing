@@ -1,8 +1,11 @@
 # IT507-Advanced-Image-Processing
 
+This repository consist of problem statements to practice and solution with code with comment & report (which will give you used library and it's explanation).
+
 This repository contains the image processing tasks and techniques applied and used during the course IT507 Advanced Image Processing in M.Tech at DAIICT, Gandhinagar.
 
 The notebooks contains image processing techniques like histogram equalization, histogram specification, template matching, applying different type of filters using convolution, image sharpening, image smoothing, bit plane slicing, etc.
+
 
 ## Assignment 1
 - Quantization and it's effects
