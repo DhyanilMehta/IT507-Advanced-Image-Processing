@@ -1,6 +1,6 @@
 # IT507-Advanced-Image-Processing
 
-This repository consist of problem statements to practice and solution with code with comment & report (which will give you used library and it's explanation).
+This repository consist of problem statements to practice with solution code given with comments & a report for it. (which gives explanation which libraries and formulas were used and their explanation).
 
 This repository contains the image processing tasks and techniques applied and used during the course IT507 Advanced Image Processing in M.Tech at DAIICT, Gandhinagar.
 
